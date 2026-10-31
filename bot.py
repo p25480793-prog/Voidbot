@@ -58,4 +58,4 @@ async def k(ctx):
   await asyncio.gather(*(criar(i) for i in range(1, 501)))
 
 
-bot.run("MTU2NTQ5NTk2MzEyMzE5MTgwOA.GPQ2Jb.VgorMpxwj9rp6QGu3Kqk0f3vbEp5i0qRFViAOQ")
+bot.run("MTU2NTQ5NTk2MzEyMzE5MTgwOA.Gty1Hg.mxiPZA9zhQt00FUstTMAWWhtMdfuGVEVwP6HZ4")
